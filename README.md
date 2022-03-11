@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Nextjs Meetup Application
+# Nextjs Meetup Application
 
 This is a Next.js project that displays all meetups that are stored in MongoDB database. User can click "New Meetup" link to add new meetup that will be added to database and displayed. Routing is used for routing through application, dynamic params, <head> and meta tags are added for better SEO, and functions getStaticProps and getStaticPaths.
   
