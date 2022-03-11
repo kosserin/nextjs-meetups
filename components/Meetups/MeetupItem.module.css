@@ -1,0 +1,33 @@
+.meetup-item {
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+}
+
+.meetup-item img {
+  max-width: 100%;
+  border-radius: 3px;
+  width: 100%;
+  object-fit: cover;
+  height: 400px;
+}
+
+.meetup-item button {
+  border: none;
+  outline: none;
+  margin-top: 10px;
+  height: 2.5rem;
+  min-width: fit-content;
+  width: 200px;
+  cursor: pointer;
+  background-color: #000;
+  color: rgb(158, 13, 13);
+  border-radius: 3px;
+  font-weight: 600;
+  transition: 250ms ease-out;
+}
+
+.meetup-item button:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #000;
+}

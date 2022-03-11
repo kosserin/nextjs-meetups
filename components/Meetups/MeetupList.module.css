@@ -1,0 +1,16 @@
+.meetup-list {
+  margin-top: 5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  list-style: none;
+  padding: 0 10vw;
+  gap: 2rem;
+}
+
+@media (max-width: 768px) {
+  .meetup-list {
+    grid-template-columns: 1fr;
+    padding: 0 2.5vw;
+    margin-top: 2.5rem;
+  }
+}
