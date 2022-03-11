@@ -13,7 +13,7 @@ This is a Next.js project that displays all meetups that are stored in MongoDB d
   ![Screenshot 2022-03-11 at 19-07-43 Add New Meetup KossMeetups](https://user-images.githubusercontent.com/71221268/157925959-661e2c3a-a9f6-421c-9c08-8a21d345f7e0.png)
   
   
-    ## Meetup Detail
+  ## Meetup Detail
   
   
 ![Screenshot 2022-03-11 at 19-16-57 React Meetup](https://user-images.githubusercontent.com/71221268/157926366-d0a2033f-1822-4176-aa93-b22e4600d611.png)
