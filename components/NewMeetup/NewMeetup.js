@@ -17,8 +17,6 @@ const NewMeetup = (props) => {
     const enteredAddress = addressValueRef.current.value;
     const enteredDescription = descriptionValueRef.current.value;
 
-    console.log(enteredTitle.trim().length)
-
     if(enteredTitle.trim().length === 0 || enteredImageUrl.trim().length === 0 || enteredAddress.trim().length === 0 || enteredDescription.trim().length === 0) {
       setError(true);
     } else {
